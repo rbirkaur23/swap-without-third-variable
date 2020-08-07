@@ -1,2 +1,2 @@
 # swap-without-third-variable
-Swap two numbers.
+C++ program to swap two numbers.
